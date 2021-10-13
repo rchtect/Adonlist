@@ -1,0 +1,21 @@
+{
+    "short_name": "Adonlist",
+    "name": "Adonlist",
+    "icons": [
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#121212",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#121212"
+  }
